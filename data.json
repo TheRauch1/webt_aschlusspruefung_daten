@@ -1,0 +1,52 @@
+{
+    "recipes": [
+        {
+            "name": "Spaghetti Carbonara",
+            "steps": [
+                "Wasser kochen",
+                "Salz ins Wasser geben",
+                "Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
+                "In einer zweiten Pfanne Speck anbraten",
+                "Sahne und Käse in die zweite Pfanne geben",
+                "Essen 😊"
+            ],
+            "difficulty": "leicht"
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "steps": [
+                "Wasser kochen",
+                "Salz ins Wasser geben",
+                "Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
+                "In einer zweiten Pfanne Speck anbraten",
+                "Sahne und Käse in die zweite Pfanne geben",
+                "Essen 😊"
+            ],
+            "difficulty": "leicht"
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "steps": [
+                "Wasser kochen",
+                "Salz ins Wasser geben",
+                "Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
+                "In einer zweiten Pfanne Speck anbraten",
+                "Sahne und Käse in die zweite Pfanne geben",
+                "Essen 😊"
+            ],
+            "difficulty": "leicht"
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "steps": [
+                "Wasser kochen",
+                "Salz ins Wasser geben",
+                "Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
+                "In einer zweiten Pfanne Speck anbraten",
+                "Sahne und Käse in die zweite Pfanne geben",
+                "Essen 😊"
+            ],
+            "difficulty": "leicht"
+        }
+    ]
+}
