@@ -13,38 +13,38 @@
             "difficulty": "leicht"
         },
         {
-            "name": "Spaghetti Carbonara",
+            "name": "Spaghetti Carbonara 2",
             "steps": [
-                "Wasser kochen",
-                "Salz ins Wasser geben",
-                "Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
-                "In einer zweiten Pfanne Speck anbraten",
-                "Sahne und Käse in die zweite Pfanne geben",
-                "Essen 😊"
+                "2x Wasser kochen",
+                "2x Salz ins Wasser geben",
+                "2x Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
+                "2x In einer zweiten Pfanne Speck anbraten",
+                "2x Sahne und Käse in die zweite Pfanne geben",
+                "2x Essen 😊"
             ],
-            "difficulty": "leicht"
+            "difficulty": "mittel"
         },
         {
-            "name": "Spaghetti Carbonara",
+            "name": "Spaghetti Carbonara 3",
             "steps": [
-                "Wasser kochen",
-                "Salz ins Wasser geben",
-                "Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
-                "In einer zweiten Pfanne Speck anbraten",
-                "Sahne und Käse in die zweite Pfanne geben",
-                "Essen 😊"
+                "3x Wasser kochen",
+                "3x Salz ins Wasser geben",
+                "3x Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
+                "3x In einer zweiten Pfanne Speck anbraten",
+                "3x Sahne und Käse in die zweite Pfanne geben",
+                "3x Essen 😊"
             ],
-            "difficulty": "leicht"
+            "difficulty": "schwer"
         },
         {
-            "name": "Spaghetti Carbonara",
+            "name": "Spaghetti Carbonara 4",
             "steps": [
-                "Wasser kochen",
-                "Salz ins Wasser geben",
-                "Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
-                "In einer zweiten Pfanne Speck anbraten",
-                "Sahne und Käse in die zweite Pfanne geben",
-                "Essen 😊"
+                "4x Wasser kochen",
+                "4x Salz ins Wasser geben",
+                "4x Spaghetti in Pfanne geben, Kochzeit auf der Verpackung beachten",
+                "4x In einer zweiten Pfanne Speck anbraten",
+                "4x Sahne und Käse in die zweite Pfanne geben",
+                "4x Essen 😊"
             ],
             "difficulty": "leicht"
         }
